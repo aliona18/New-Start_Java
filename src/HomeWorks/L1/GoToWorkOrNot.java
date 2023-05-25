@@ -1,3 +1,5 @@
+package HomeWorks.L1;
+
 import java.util.Scanner;
 
 public class GoToWorkOrNot {

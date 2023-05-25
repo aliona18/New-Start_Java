@@ -1,3 +1,5 @@
+package HomeWorks.L1;
+
 import javax.print.DocFlavor;
 import java.util.Scanner;
 
